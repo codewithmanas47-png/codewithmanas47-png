@@ -1,5 +1,4 @@
-![logo](<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 02_10_54 AM" src="https://github.com/user-attachments/assets/99e954f2-016e-4e73-862c-d3f52c8503aa" />
-)
+![logo](<img width="1983" height="793" alt="github png" src="https://github.com/user-attachments/assets/61e128af-e6dc-4c09-b1b3-6afaca90b0f3" />)
 
 <div align="center">
 
