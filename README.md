@@ -11,10 +11,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anas-3632ba417/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=About.me&logoColor=white)](https://loquacious-choux-cf9bfd.netlify.app/#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithmanas47@gmail.com)
+[![Email](codewithmanas47@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadanas)
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadanas&color=7C3AED&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 </div>
 
