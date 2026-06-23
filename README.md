@@ -1,5 +1,4 @@
-![logo](<img width="1983" height="793" alt="github png" src="https://github.com/user-attachments/assets/61e128af-e6dc-4c09-b1b3-6afaca90b0f3" />)
-
+![logo](https://raw.githubusercontent.com/Ashutosh-PMishra/Ashutosh-PMishra/main/Github%20Banner.png)
 <div align="center">
 
 # Hi there, I'm Muhammad Anas 👋
